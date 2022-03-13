@@ -1,3 +1,6 @@
 print("Mark Vincent R. Leaño")
 print ("Bantad, Boac, Marinduque")
 print("June 2, 2002")
+print("Marinduque State College")
+print("BS Information Technology")
+print("2nd Year, Section A")
